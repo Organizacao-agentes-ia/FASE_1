@@ -9,9 +9,9 @@
 
 [Mapa Conceitual Agentes de IA](Mapa_conceitual_agentes.pdf)
 
-[Mapa Estrutural Agenteis de IA](Mapa_estrutural_agentes.pdf)
 
 [Apresentação YouTube](https://youtube.com/)
-Prompt Agente 
+
+[Agentes Prompts](agentes-prompts.pdf) 
 
 
