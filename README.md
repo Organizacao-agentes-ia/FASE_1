@@ -4,11 +4,11 @@
 
 # Tech Challenge FASE 1 
 
-[Relatorio Executivo,(Relatorio_executivo.docx)]
+[Relatorio Executivo](Relatorio_executivo)
 
-[Mapa Conceitual Agentes de IA,(Mapa_conceitual_agentes.pdf)]
+[Mapa Conceitual Agentes de IA](Mapa_conceitual_agentes.pdf)
 
-[Mapa Estrutural Agenteis de IA,((Mapa_estrutural_agentes.pdf))]
+[Mapa Estrutural Agenteis de IA](Mapa_estrutural_agentes.pdf)
 
 Prompt Agente 
 
