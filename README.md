@@ -1,2 +1,15 @@
-# FASE_1
-Documentos diversos fase 1
+# POS -  Agentes de IA - 2AIAT
+
+
+
+# Tech Challenge FASE 1 
+
+[Relatorio Executivo,(Relatorio_executivo.docx)]
+
+[Mapa Conceitual Agentes de IA,(Mapa_conceitual_agentes.pdf)]
+
+[Mapa Estrutural Agenteis de IA,((Mapa_estrutural_agentes.pdf))]
+
+Prompt Agente 
+
+
