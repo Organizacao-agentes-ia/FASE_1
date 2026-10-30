@@ -4,7 +4,7 @@
 
 # Tech Challenge FASE 1 
 
-[Relatorio Executivo](Relatorio_executivo)
+[Relatorio Executivo](Relatorio_executivo.pdf)
 
 [Mapa Conceitual Agentes de IA](Mapa_conceitual_agentes.pdf)
 
